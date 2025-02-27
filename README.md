@@ -17,11 +17,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [**Akhand Tajmirul**](https://www.me.toinfinite.dev/) [Frontend Engineer]
+- [**Akhand Tajmirul**](https://www.me.toinfinite.dev/) [Frontend Engineer] - interested
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
-- [Aabraham James](https://seera.framer.website/)
-- [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
+- [Aabraham James](https://seera.framer.website/) - interested
+- [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer] - intrested
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aamir Malik](https://muhammadaamirmalik.com/)
 - [Aaron Dunphy](https://aarondunphy.com)
@@ -29,8 +29,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashutosh Rathi](https://aashutosh.dev)
-- [Aayush Bharti](https://aayushbharti.in/) [Full-stack Developer]
-- [Aayush Kurup](https://aayushkurup.dev)
+- [Aayush Bharti](https://aayushbharti.in/) [Full-stack Developer] - interested 
+- [Aayush Kurup](https://aayushkurup.dev) - interested
 - [Aayush Sood](https://www.aayushsood.com/)
 - [Abass Dev](https://abassdev.com)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
@@ -46,39 +46,39 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhinay Thakur](https://abhinaythakur.com)
 - [Abhishek Bhardwaj](https://www.imabhishek.online)
 - [Abhishek Kandel](https://abhishekkandel.com.np)
-- [Abhishek Panthee](https://abhishekpanthee.com.np)
+- [Abhishek Panthee](https://abhishekpanthee.com.np)- interested
 - [Abu Said](https://www.abusaid.me)
-- [Abubakr Mufutau-Oseni](https://abubakrmo.com)
-- [Adam Alston](https://www.adamalston.com)
-- [Adeola Badero](https://www.adeolabadero.me) [Frontend Engineer & UI/UX Designer] - intrested
-- [Adham Dannaway](https://www.adhamdannaway.com/) [UX/UI Designer & Frontend Developer]
+- [Abubakr Mufutau-Oseni](https://abubakrmo.com)- interested
+- [Adam Alston](https://www.adamalston.com) - interested
+- [Adeola Badero](https://www.adeolabadero.me) [Frontend Engineer & UI/UX Designer] - interested
+- [Adham Dannaway](https://www.adhamdannaway.com/) [UX/UI Designer & Frontend Developer] - interested
 - [Adil Aboulkacim](https://adilaboulkacim.com)
 - [Adithya Krishnan](https://www.adithyakrishnan.com/)
 - [Aditya Chaudhary](https://aditya-portfolio-dusky.vercel.app/)
 - [Aditya Kumar Gupta](https://aditya30051993.github.io/my-portfolio) [Doctor & Developer]
 - [Aditya Kumar](https://www.adityakr.com)
-- [Aditya Medhe](https://aditya.medhe.in)
-- [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
-- [Aditya Vikram Singh](https://www.adityavsingh.com)
+- [Aditya Medhe](https://aditya.medhe.in) - interested 
+- [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer] - interested
+- [Aditya Vikram Singh](https://www.adityavsingh.com) - interested
 - [Adityakumar Sinha](https://aditya113141.github.io)
-- [Adrian Alvarez](https://www.adrian-alvarez.dev) [Frontend Developer]
+- [Adrian Alvarez](https://www.adrian-alvarez.dev) [Frontend Developer] - interested
 - [Afam Olie](https://afamolie.com) [Full-Stack Developer]
 - [Agney Menon](https://agney.dev)
-- [Agrawal Pratham](https://agrawalpratham.in)
+- [Agrawal Pratham](https://agrawalpratham.in) - interested
 - [Ahamed Kabeer](https://aktech27.github.io/) [MERN Full-Stack Developer]
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmad Gill](https://ahmadgill-portfolio.netlify.app/) [MERN/NextJs Developer | Web 3 & Blockchain]
 - [Ahmed Oublihi](https://www.medevs.xyz)
-- [Ahmet Eren Odacı](https://ahmete.ren)
+- [Ahmet Eren Odacı](https://ahmete.ren) - interested
 - [Ahsan Khan](https://ahsankhan.me)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
-- [Ajay Kannan](https://ajaykannan.netlify.app)
+- [Ajay Kannan](https://ajaykannan.netlify.app) - interested
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
-- [Akash Rajpurohit](https://akashrajpurohit.com)
+- [Akash Rajpurohit](https://akashrajpurohit.com)- interested
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
-- [Akhshy Ganesh](https://akhshyganesh.github.io/) [Full-Stack Developer | Solution Architect]
+- [Akhshy Ganesh](https://akhshyganesh.github.io/) [Full-Stack Developer | Solution Architect] - interested 
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Akshay Benny](https://www.akshaybenny.com) [Software Developer]
@@ -88,10 +88,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Alejandro Sobko](http://alejandrosobko.com)
 - [Aleksandar Pajić](https://www.aleksandarpajic.co) [Software Developer & Designer]
 - [Alestor Aldous](http://alestor123.github.io)
-- [Alex Michailidis](https://alexandros.tech)
+- [Alex Michailidis](https://alexandros.tech) - interested
 - [Alexey Golub](http://tyrrrz.me)
 - [Alfred Dagenais](https://alfreddagenais.com)
-- [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
+- [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]-------------continue from here 
 - [Allan Im](https://allanim.com) [Software Engineer]
 - [Allan Muturi](https://allanmuturi.vercel.app)
 - [Aloys Dillar](https://trolologuy.github.io)
